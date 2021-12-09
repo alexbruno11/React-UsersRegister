@@ -62,7 +62,7 @@ const App = () => {
 
       
         <Button onClick= {addNewUser} >
-          Register <img alt="arrow" src={Arrow} />
+          Register<img alt="arrow" src={Arrow} />
         </Button>
 
        
