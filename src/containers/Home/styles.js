@@ -11,7 +11,7 @@ background-size: cover;
 display: flex;
 flex-direction: column;
 align-items: center;
-gap: 40px;
+gap: 35px;
 
 
  `;
